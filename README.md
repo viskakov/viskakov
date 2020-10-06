@@ -1,4 +1,9 @@
 ### Hi there 👋
+### 🔭 I’m currently working on %projectName%
+### 💬 Ask me about C#, Unity
+### 😄 Pronouns: He/Him
+
+
 
 <!--
 **viskakov/viskakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
