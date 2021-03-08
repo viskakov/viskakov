@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on %projectName%
 ### 💬 Ask me about C#, Unity
-### 😄 Pronouns: He/Him
 
 
 
