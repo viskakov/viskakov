@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 🖖
+### 🔭 I’m currently working on Pet project
+### 📫 How to reach me: https://t.me/viskakov
+### 💬 Ask me about Unity, C# and GameDev
 
 <!--
 **viskakov/viskakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
