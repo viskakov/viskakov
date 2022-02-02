@@ -1,6 +1,6 @@
 ### Hi there 🖖
 ### 🔭 I’m currently working on Pet project
-### 📫 How to reach me: https://t.me/viskakov
+### 📫 How to reach me: https://t.me/rational_gaze
 ### 💬 Ask me about Unity, C# and GameDev
 
 <!--
