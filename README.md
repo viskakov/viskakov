@@ -1,6 +1,6 @@
 ### Hi there 🖖
 ### 📫 How to reach me: 
-- Linktree: https://linktr.ee/vsevolodiskakov
+- [Linktree](https://linktr.ee/viskakov)
 ### 💬 Ask me about Unity, C# and GameDev
 
 <!--
