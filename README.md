@@ -1,7 +1,6 @@
-### Hi there 🖖
+### Hi there 🖖🏻
 ### 📫 How to reach me: 
 - [Linktree](https://linktr.ee/viskakov)
-### 💬 Ask me about Unity, C# and GameDev
 
 <!--
 **viskakov/viskakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
