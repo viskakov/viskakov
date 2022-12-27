@@ -1,8 +1,6 @@
 ### Hi there 🖖
 ### 📫 How to reach me: 
-- Telegram: https://t.me/rational_gaze
-- KWork: https://kwork.ru/user/vsev0l0dvsevolod
-- Linkedin: https://www.linkedin.com/in/vsevolod-iskakov-169b40100/
+- Linktree: https://linktr.ee/vsevolodiskakov
 ### 💬 Ask me about Unity, C# and GameDev
 
 <!--
