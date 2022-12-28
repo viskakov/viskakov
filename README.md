@@ -1,4 +1,4 @@
-### Hi there 🖖🏻
+### Live long and prosper, friends!🖖🏻
 ### 📫 How to reach me: 
 - [Linktree](https://linktr.ee/viskakov)
 
